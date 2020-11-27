@@ -95,7 +95,7 @@ arch-chroot /mnt /bin/bash
 ```
 vim /etc/mkinitcpio.conf
 ```
-> Look for line starting with HOOKS="..." and add 'lvm2' AFTER block and BEFORE filesystems
+> Look for line starting with HOOKS="..." and add 'lvm2' AFTER 'block' and BEFORE 'filesystems'.
 
 # Regenerate initrd image
 ```
