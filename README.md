@@ -2,6 +2,3 @@
 
 > ## I'm Husband, Programmer and Developer.
 
-```
-Just testing
-```
