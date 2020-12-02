@@ -1,4 +1,4 @@
-> ### Hi there, Gntlmn.
+> ## Hi there, Gntlmn.
 
-> ## I'm Husband, Programmer and Developer.
+> ### I'm Husband, Programmer and Developer.
 
