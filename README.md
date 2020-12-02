@@ -1,4 +1,4 @@
-> ### Hi there, I'm Mikael, aka Gntlmn.
+> ### Hi there, Gntlmn.
 
 > ## I'm Husband, Programmer and Developer.
 
